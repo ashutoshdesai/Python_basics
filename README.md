@@ -9,8 +9,11 @@ A. Python data structures and other essentials
  3. Dictionaries
  4. List comprehension
  5. Functions and control flow
+
 B. Linear algebra in Numpy
  1. Matrix calculations
  2. Norms and eigenvalues
+
 C. Pandas manipulations
+
 D. Pivot, aggregate and plot timeseries
